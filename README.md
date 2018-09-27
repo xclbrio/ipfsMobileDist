@@ -8,5 +8,5 @@ Excalibur IPFS Dist of Mobile Version
 <br/><br/>
 
 [![](https://raw.githubusercontent.com/xclbrio/styleGuide/master/exploreIPFS.svg?sanitize=true)](https://kovan.ipfs.m.xclbr.io)
-[![](https://raw.githubusercontent.com/xclbrio/styleGuide/master/downloadIPFS.svg?sanitize=true)](https://github.com/xclbrio/ipfsWebDist/archive/master.zip)
+[![](https://raw.githubusercontent.com/xclbrio/styleGuide/master/downloadIPFS.svg?sanitize=true)](https://github.com/xclbrio/ipfsMobileDist/releases)
 > Official IPNS hash: [ipns/QmTU3XCUz1LiHJjNvfDdEycTSzihURcGRFTrHr5zuhqRBe](https://cloudflare-ipfs.com/ipns/QmTU3XCUz1LiHJjNvfDdEycTSzihURcGRFTrHr5zuhqRBe)
